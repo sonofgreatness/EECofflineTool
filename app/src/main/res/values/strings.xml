@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EECofflineTool</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="Dashbord1">ENERGY FOR THE FUTURE</string>
+    <string name="prepaymentsystem">Learn About the Prepayment System</string>
+    <string name="howtobuyelectricity">Learn how to buy electricity</string>
+    <string name="vutsela">Learn About Domestic Connection/Vustela</string>
+    <string name="Display">"Energy For The Future"</string>
+    <string name= "Safetyprecautions"> Read Safety booklet </string>
+    <string name="purchaseorder">View Purhase order Terms and Conditions</string>
+    <string name= "home"> Closer to Home</string>
+</resources>
